@@ -1,0 +1,112 @@
+N =  8
+sigma =  0.1
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.1794330018756184
+
+N =  8
+sigma =  0.1
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.18546375049435854
+
+N =  8
+sigma =  0.5
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.1794330018756184
+
+N =  8
+sigma =  0.5
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.18546375049435854
+
+N =  8
+sigma =  1
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.1794330018756184
+
+N =  8
+sigma =  1
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.18546375049435854
+
+N =  14
+sigma =  0.1
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.045916522295060665
+
+N =  14
+sigma =  0.1
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.07932727387919272
+
+N =  14
+sigma =  0.5
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.045916522295060665
+
+N =  14
+sigma =  1
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  
+
+N =  16
+sigma =  1
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.09571459952490066
+
+N =  18
+sigma =  1
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.0570734296171517
+
+best_N =  0
+best_sigma =  0
+best_rho =  0
+best_error =  0.02358677602613122

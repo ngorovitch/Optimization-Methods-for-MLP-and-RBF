@@ -1,0 +1,524 @@
+N =  4
+sigma =  1
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.18706488882299233
+
+N =  4
+sigma =  1
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.12552144343588037
+
+N =  4
+sigma =  1
+rho =  0.001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.21938504273764198
+
+N =  4
+sigma =  2
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.13644427662604275
+
+N =  4
+sigma =  2
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.11070697804833432
+
+N =  4
+sigma =  2
+rho =  0.001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.20010635179512304
+
+N =  4
+sigma =  3
+rho =  1e-05
+
+Optimizing the neural network...
+../lib\homeworkLib.py:35: RuntimeWarning: overflow encountered in exp
+  return (1 - exp(-sigma*x)) / (1 + exp(-sigma*x))
+../lib\homeworkLib.py:35: RuntimeWarning: invalid value encountered in double_scalars
+  return (1 - exp(-sigma*x)) / (1 + exp(-sigma*x))
+../lib\homeworkLib.py:35: RuntimeWarning: overflow encountered in exp
+  return (1 - exp(-sigma*x)) / (1 + exp(-sigma*x))
+../lib\homeworkLib.py:35: RuntimeWarning: invalid value encountered in double_scalars
+  return (1 - exp(-sigma*x)) / (1 + exp(-sigma*x))
+../lib\homeworkLib.py:35: RuntimeWarning: overflow encountered in exp
+  return (1 - exp(-sigma*x)) / (1 + exp(-sigma*x))
+../lib\homeworkLib.py:35: RuntimeWarning: invalid value encountered in double_scalars
+  return (1 - exp(-sigma*x)) / (1 + exp(-sigma*x))
+c:\users\azimedemtsvd\documents\programs\python\python36-32\lib\site-packages\numpy\core\_methods.py:26: RuntimeWarning: invalid value encountered in reduce
+  return umr_maximum(a, axis, None, out, keepdims)
+
+Optimizing the neural network...
+../lib\homeworkLib.py:35: RuntimeWarning: overflow encountered in exp
+  return (1 - exp(-sigma*x)) / (1 + exp(-sigma*x))
+../lib\homeworkLib.py:35: RuntimeWarning: invalid value encountered in double_scalars
+  return (1 - exp(-sigma*x)) / (1 + exp(-sigma*x))
+../lib\homeworkLib.py:35: RuntimeWarning: overflow encountered in exp
+  return (1 - exp(-sigma*x)) / (1 + exp(-sigma*x))
+../lib\homeworkLib.py:35: RuntimeWarning: invalid value encountered in double_scalars
+  return (1 - exp(-sigma*x)) / (1 + exp(-sigma*x))
+c:\users\azimedemtsvd\documents\programs\python\python36-32\lib\site-packages\numpy\core\_methods.py:26: RuntimeWarning: invalid value encountered in reduce
+  return umr_maximum(a, axis, None, out, keepdims)
+Test_error:  nan
+
+N =  4
+sigma =  3
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.1951386159253279
+
+N =  4
+sigma =  3
+rho =  0.001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.19574844152949983
+
+N =  4
+sigma =  4
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+../lib\homeworkLib.py:35: RuntimeWarning: overflow encountered in exp
+  return (1 - exp(-sigma*x)) / (1 + exp(-sigma*x))
+../lib\homeworkLib.py:35: RuntimeWarning: invalid value encountered in double_scalars
+  return (1 - exp(-sigma*x)) / (1 + exp(-sigma*x))
+../lib\homeworkLib.py:35: RuntimeWarning: overflow encountered in exp
+  return (1 - exp(-sigma*x)) / (1 + exp(-sigma*x))
+../lib\homeworkLib.py:35: RuntimeWarning: invalid value encountered in double_scalars
+  return (1 - exp(-sigma*x)) / (1 + exp(-sigma*x))
+c:\users\azimedemtsvd\documents\programs\python\python36-32\lib\site-packages\numpy\core\_methods.py:26: RuntimeWarning: invalid value encountered in reduce
+  return umr_maximum(a, axis, None, out, keepdims)
+Test_error:  nan
+
+N =  4
+sigma =  4
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.13682164262769891
+
+N =  4
+sigma =  4
+rho =  0.001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.1243423294096486
+
+N =  6
+sigma =  1
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.09422598098289052
+
+N =  6
+sigma =  1
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.10329253830934126
+
+N =  6
+sigma =  1
+rho =  0.001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.10908431552015069
+
+N =  6
+sigma =  2
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.05309839091781558
+
+N =  6
+sigma =  2
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.05102072355513208
+
+N =  6
+sigma =  2
+rho =  0.001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.08534895947507512
+
+N =  6
+sigma =  3
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.04559167030957342
+
+N =  6
+sigma =  3
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.07049320378630805
+
+N =  6
+sigma =  3
+rho =  0.001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.07802335819091302
+
+N =  6
+sigma =  4
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.056368993434071674
+
+N =  6
+sigma =  4
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.0521506225245972
+
+N =  6
+sigma =  4
+rho =  0.001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.07549066817810583
+
+N =  8
+sigma =  1
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.0243208174510021
+
+N =  8
+sigma =  1
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.032320152573337695
+
+N =  8
+sigma =  1
+rho =  0.001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.10636214600804121
+
+N =  8
+sigma =  2
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.03036127731388772
+
+N =  8
+sigma =  2
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.04149346087483273
+
+N =  8
+sigma =  2
+rho =  0.001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.056204838921825866
+
+N =  8
+sigma =  3
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.07159961797586613
+
+N =  8
+sigma =  3
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.04262043754231224
+
+N =  8
+sigma =  3
+rho =  0.001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.05791558246950293
+
+N =  8
+sigma =  4
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.06011148141775425
+
+N =  8
+sigma =  4
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.03616114749688944
+
+N =  8
+sigma =  4
+rho =  0.001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.046474409583974696
+
+N =  10
+sigma =  1
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.02358677602613122
+
+N =  10
+sigma =  1
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.032136884807378994
+
+N =  10
+sigma =  1
+rho =  0.001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.09337698089798094
+
+N =  10
+sigma =  2
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.03886547955522854
+
+N =  10
+sigma =  2
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.03632458560218432
+
+N =  10
+sigma =  2
+rho =  0.001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.05307292519638928
+
+N =  10
+sigma =  3
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.02762378471982921
+
+N =  10
+sigma =  3
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.04183335870808924
+
+N =  10
+sigma =  3
+rho =  0.001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.0676340201355313
+
+N =  10
+sigma =  4
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.041696847225934794
+
+N =  10
+sigma =  4
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.042835743353109086
+
+N =  10
+sigma =  4
+rho =  0.001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.04460609265516517
+
+N =  12
+sigma =  1
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.022611501428463982
+
+N =  12
+sigma =  1
+rho =  0.0001
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.028575456955305965
+
+N =  14
+sigma =  0.5
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.04812884192325828
+
+N =  14
+sigma =  1
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.019880463806349946
+
+N =  16
+sigma =  1
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.010604000287021215
+
+N =  18
+sigma =  1
+rho =  1e-05
+
+Optimizing the neural network...
+
+Optimizing the neural network...
+Test_error:  0.018953790712462303
+
+best_N =  16
+best_sigma =  1
+best_rho =  1e-05
+best_error =  0.010604000287021215
